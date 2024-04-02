@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { IoTime } from "react-icons/io5";
-import { TbCircleLetterB } from "react-icons/tb";
 import { VscBold } from "react-icons/vsc";
 import { SlEnergy } from "react-icons/sl";
 import { CiSearch } from "react-icons/ci";
@@ -153,7 +152,12 @@ const DemoComponent = () => {
 
           <div className=" grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-5">
             <div className="bg-white/85 border-2 border-neutral-500/60  md:w-[25vw] ">
-              <img src={Nature1} height="5%" width="100%" />
+              <img
+                src={Nature1}
+                alt="unplash images"
+                height="5%"
+                width="100%"
+              />
               <div className="m-4">
                 <h1 className="font-semibold text-black sm:text-base text-sm">
                   AI Character Demo Stroyboard
