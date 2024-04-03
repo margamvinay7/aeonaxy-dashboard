@@ -1,6 +1,6 @@
 import React from "react";
 import { IoTime } from "react-icons/io5";
-
+//OfferBanner component is  responsible for displaying offer banners
 const OfferBanner = () => {
   return (
     <div className="flex relative sm:flex-row flex-col bg-orange-200 sm:h-12 ps-5 gap-x-4 sm:py-0 sm:gap-y-0 gap-y-1 py-1 justify-start items-center">

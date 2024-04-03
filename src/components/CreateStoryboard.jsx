@@ -3,6 +3,7 @@ import { AiOutlineClose } from "react-icons/ai";
 import { CgToggleOn } from "react-icons/cg";
 import { FaAngleDown } from "react-icons/fa";
 
+// The CreateStoryboard component is a popup interface for creating a new storyboard. It allows users to input a storyboard name, select a frame size, toggle an AI assistant feature, and initiate the creation of the storyboard.
 const CreateStoryboard = ({ togglePopup }) => {
   return (
     <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center">

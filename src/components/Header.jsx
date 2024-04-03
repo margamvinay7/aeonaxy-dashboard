@@ -3,6 +3,7 @@ import { VscBold } from "react-icons/vsc";
 import { SlEnergy } from "react-icons/sl";
 import { CiSearch } from "react-icons/ci";
 
+// The Header component represents the header section of the AI storyboard dashboard. It contains elements such as the project dashboard title, search input field, Quick Start button, and various icons.
 const Header = () => {
   return (
     <div className="flex sm:flex-row flex-col relative justify-between   ps-2 sm:items-center">
