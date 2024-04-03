@@ -1,9 +1,9 @@
-import DemoComponent from "./DemoComponent";
+import Dashboard from "./pages/Dashboard";
 
 function App() {
   return (
     <div>
-      <DemoComponent />
+      <Dashboard />
     </div>
   );
 }
