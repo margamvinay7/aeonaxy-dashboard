@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Aeonaxy Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Aeonaxy Dashboard component can be integrated into the application's routing system or included directly in the main application component for displaying the AI storyboard dashboard interface.<br/><br/>
+The Aeonaxy Dashboard can used to create a AI Storyboard for users.<br/><br/>
+The Dashboard component serves as the main interface for the AI storyboard dashboard. It includes elements such as offer banners, headers, project details, and a create storyboard popup.<br/><br/>
 
-## Available Scripts
+The CreateStoryboard component is a popup interface for creating a new storyboard. It allows users to input a storyboard name, select a frame size, toggle an AI assistant feature, and initiate the creation of the storyboard.<br/><br/>
 
-In the project directory, you can run:
+The Header component represents the header section of the AI storyboard dashboard. It contains elements such as the project dashboard title, search input field, Quick Start button, and various icons.<br/>
 
-### `npm start`
+## Features
+Creating the New AI Storyboards
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Pages Built
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2024-04-03 182223](https://github.com/margamvinay7/aeonaxy-dashboard/assets/129204041/037b890f-0ead-48b1-94db-2e4aec19d461)
+![Screenshot 2024-04-03 180701](https://github.com/margamvinay7/aeonaxy-dashboard/assets/129204041/2d9b4e71-e73c-49e1-a7fd-7ea73590aa73)
+![Screenshot 2024-04-03 180604](https://github.com/margamvinay7/aeonaxy-dashboard/assets/129204041/e28f6202-f00b-4cda-aa40-dfde4c041146)
+![Screenshot 2024-04-03 180735](https://github.com/margamvinay7/aeonaxy-dashboard/assets/129204041/7d80f902-d9a3-4c53-a6ea-f35d07c5deb6)
 
-### `npm test`
+## Installation ⬇️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To install Aeonaxy Dashboard  on your device, follow these steps:
 
-### `npm run build`
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run `npm install` to install the necessary dependencies.
+4. Run `npm run start `, or `npm start` to run the application on device.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
